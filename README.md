@@ -14,7 +14,7 @@ Motor Imagery EEG Classification using Deep Learning Techniques is a tool that s
 - **Classification Model**: CNN-LSTM is used for movement classification.
 - **Visualizations**: Displays loss, accuracy curves, confusion matrix, and classification reports.
 - **Intuitive Interface**: Easy navigation through a simple Graphical User Interface.
-![Graphical User Interface](GUI.png)
+![Graphical User Interface](./images_for_gui/GUI.png)
 ## Requirements
 - Python 3.x
 - Tkinter
